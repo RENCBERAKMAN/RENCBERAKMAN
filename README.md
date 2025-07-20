@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Glitch Neon Hacker Animation" />
 </p>
+<p align="center">
+  <img src="GÖRSEL_LINKİ" width="500" alt="Yazılımcı Giriş Görseli" />
+</p>
 
 
 <p align="center">
