@@ -55,15 +55,18 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kullaniciadiniz" target="_blank">
+  <a href="https://www.linkedin.com/in/rençber-akman-92b416333" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
+    <a href="https://rencberakman.github.io/RENCBER-PORTFOLIO/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-purple?style=for-the-badge&logo=visualstudiocode" alt="Portfolio Badge"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://kisiselwebsiteniz.com" target="_blank">
+  <a href="https://rencberakman.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" title="Website"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@kullaniciadiniz" target="_blank">
+  <a href="https://www.youtube.com/@OyunAtoölyesi7" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" title="YouTube"/>
   </a>
 </p>
@@ -104,3 +107,10 @@ I constantly ask:
 Software and games shouldn't just be about functionality or fun — they can also spark moments of awakening.  
 I want users to pause and ask:  
 **“Wait a second... what am I really serving here?”**
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" alt="Keep Coding">
+</p>
+
+<p align="center">
+  <b><i>The journey continues... One line at a time.</i></b>
+</p>
