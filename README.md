@@ -52,7 +52,21 @@
 
 ---
 
-📫 Reach me on: [LinkedIn](#) | [Website](#) | [YouTube](#)
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kullaniciadiniz" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kisiselwebsiteniz.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" title="Website"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@kullaniciadiniz" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" title="YouTube"/>
+  </a>
+</p>
 
 ---
 
