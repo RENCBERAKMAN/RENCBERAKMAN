@@ -1,5 +1,15 @@
-# 👋 Hi there! I'm Rençber Akman
+<p align="center">
+  <img src="https://rencber-assets.example.com/profile-illustration.png" width="300"/>
+</p>
 
+<h1 align="center">Hi there, I'm Rençber Akman 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/project-Racing%20Game-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/status-Actively%20Learning-brightgreen?style=flat-square"/>
+</p>
 ![Developer](https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=flat-square)
 ![Project](https://img.shields.io/badge/project-Racing%20Game-red?style=flat-square)
 ![Stack](https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=flat-square)
