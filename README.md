@@ -1,15 +1,3 @@
-<div align="center" style="
-  border: 4px solid #00ffea;
-  border-radius: 20px;
-  padding: 30px 40px;
-  max-width: 900px;
-  margin: 30px auto;
-  background: #121212;
-  box-shadow: 0 0 25px #00ffea;
-  color: #e0e0e0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F91&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rençber+Akman;Game+Developer+%2F+Backend+Explorer;Dreamer+%2F+Builder+%2F+Learner" alt="Typing SVG" />
@@ -22,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Glitch Neon Hacker Animation" style="border-radius: 12px; box-shadow: 0 0 15px #ff6f91;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Glitch Neon Hacker Animation" />
 </p>
 
 <p align="center">
@@ -125,11 +113,10 @@ I constantly ask:
 Software and games shouldn't just be about functionality or fun — they can also spark moments of awakening.  
 I want users to pause and ask:  
 **“Wait a second... what am I really serving here?”**
-
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff" />
 </p>
 
-</div>
+
