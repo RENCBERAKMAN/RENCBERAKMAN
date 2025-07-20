@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="400" alt="Matrix Rain Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Glitch Neon Hacker Animation" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=for-the-badge"/>
