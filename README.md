@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400" alt="Glitch Animation" />
+  <img src="https://media.giphy.com/media/5xtDarqlsEWLC2fOXRe/giphy.gif" width="400" alt="Terminal Typing Animation" />
 </p>
 
 <p align="center">
