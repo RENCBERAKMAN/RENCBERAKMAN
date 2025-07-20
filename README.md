@@ -1,21 +1,18 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/profile-illustration.png" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F91&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rençber+Akman;Game+Developer+%2F+Backend+Explorer;Dreamer+%2F+Builder+%2F+Learner" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi there, I'm Rençber Akman 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/project-Racing%20Game-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/status-Actively%20Learning-brightgreen?style=flat-square"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer GIF"/>
 </p>
 
-![Developer](https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=flat-square)
-![Project](https://img.shields.io/badge/project-Racing%20Game-red?style=flat-square)
-![Stack](https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=flat-square)
-![Status](https://img.shields.io/badge/status-Actively%20Learning-brightgreen?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/project-Racing%20Game-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/status-Actively%20Learning-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -29,55 +26,35 @@
 ## 🚀 Technologies I Use & Explore
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL/MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/pascal-icon.svg" width="40" title="Pascal"/>
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/delphi-icon.svg" width="40" title="Delphi 7"/>
-
-  <!-- Dev Tools & IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" title="Unreal Engine"/>
-
-  <!-- Backend Topics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js / REST API"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions"/>
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/jwt-icon.svg" width="40" title="JWT"/>
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/oauth2-icon.svg" width="40" title="OAuth2"/>
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/unit-test-icon.svg" width="40" title="Unit Testing"/>
-  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/container-icon.svg" width="40" title="Container Orchestration"/>
-</p>
-
-**Backend Topics I’m Learning:**  
-REST APIs, Microservices, JWT Authentication, Docker, CI/CD, OAuth2, PostgreSQL optimization, Unit testing, GitHub Actions, container orchestration  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rencberakman" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" title="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://rencber.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30" title="Website"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@rencberakman" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30" title="YouTube"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>
 </p>
 
 ---
 
-## 🎯 Goals and Reflections
-...
+## 📚 Technologies I’m Learning / Exploring
 
-<!-- Metnin geri kalanı senin gönderdiğin haliyle birebir korundu -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" title="Unreal Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+</p>
+
+---
+
+📫 Reach me on: [LinkedIn](#) | [Website](#) | [YouTube](#)
+
+---
 
 ## 🎯 Goals and Reflections
 
@@ -113,5 +90,3 @@ I constantly ask:
 Software and games shouldn't just be about functionality or fun — they can also spark moments of awakening.  
 I want users to pause and ask:  
 **“Wait a second... what am I really serving here?”**
-
-
