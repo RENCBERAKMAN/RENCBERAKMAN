@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://rencber-assets.example.com/profile-illustration.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/profile-illustration.png" width="300"/>
 </p>
 
 <h1 align="center">Hi there, I'm Rençber Akman 👋</h1>
@@ -10,6 +11,7 @@
   <img src="https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/status-Actively%20Learning-brightgreen?style=flat-square"/>
 </p>
+
 ![Developer](https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=flat-square)
 ![Project](https://img.shields.io/badge/project-Racing%20Game-red?style=flat-square)
 ![Stack](https://img.shields.io/badge/learning-Express%2C%20Unreal%2C%20JWT-orange?style=flat-square)
@@ -27,21 +29,43 @@
 ## 🚀 Technologies I Use & Explore
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <!-- Pascal ve Delphi için özel ikon yok, ama Custom SVG ile eklenebilir -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/No_image_available_600_x_450.svg" width="40" title="Pascal"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/No_image_available_600_x_450.svg" width="40" title="Delphi 7"/>
-</p> 
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL/MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/pascal-icon.svg" width="40" title="Pascal"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/delphi-icon.svg" width="40" title="Delphi 7"/>
+
+  <!-- Dev Tools & IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" title="Unreal Engine"/>
+
+  <!-- Backend Topics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js / REST API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/jwt-icon.svg" width="40" title="JWT"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/oauth2-icon.svg" width="40" title="OAuth2"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/unit-test-icon.svg" width="40" title="Unit Testing"/>
+  <img src="https://raw.githubusercontent.com/rencberakman/assets/main/container-icon.svg" width="40" title="Container Orchestration"/>
+</p>
+
 **Backend Topics I’m Learning:**  
 REST APIs, Microservices, JWT Authentication, Docker, CI/CD, OAuth2, PostgreSQL optimization, Unit testing, GitHub Actions, container orchestration  
 
 📫 Reach me on: [LinkedIn](#) | [Website](#) | [YouTube](#)
 
 ---
+
+## 🎯 Goals and Reflections
+...
+
+<!-- Metnin geri kalanı senin gönderdiğin haliyle birebir korundu -->
 
 ## 🎯 Goals and Reflections
 
