@@ -15,9 +15,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f6pYynGdh2V2k/giphy.gif" width="500" alt="Coding Screen Animation" />
+  <img src="https://media.giphy.com/media/3o7aD4sCUWxnZzDKaI/giphy.gif" width="500" alt="Typing Hands Animation" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=for-the-badge"/>
