@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarqlsEWLC2fOXRe/giphy.gif" width="400" alt="Terminal Typing Animation" />
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="400" alt="Matrix Rain Animation" />
 </p>
 
 <p align="center">
