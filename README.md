@@ -16,8 +16,16 @@
 
 ## 🚀 Technologies I Use & Explore
 
-**Languages & Tools:** HTML, CSS, SQL, Python, C, Pascal, Delphi 7  
-**Dev Tools & IDEs:** Visual Studio, Git, GitHub, Unreal Engine  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <!-- Pascal ve Delphi için özel ikon yok, ama Custom SVG ile eklenebilir -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/No_image_available_600_x_450.svg" width="40" title="Pascal"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/No_image_available_600_x_450.svg" width="40" title="Delphi 7"/>
+</p> 
 **Backend Topics I’m Learning:**  
 REST APIs, Microservices, JWT Authentication, Docker, CI/CD, OAuth2, PostgreSQL optimization, Unit testing, GitHub Actions, container orchestration  
 
