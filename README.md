@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarqlsEWLC2fOXRe/giphy.gif" width="500" alt="Terminal Typing Animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500" alt="Neon Code Animation" />
 </p>
 
 <p align="center">
