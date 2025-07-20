@@ -15,8 +15,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500" alt="Neon Code Animation" />
+  <img src="https://media.giphy.com/media/l0MYG7xfXOcY9ZWd2/giphy.gif" width="500" alt="Code Stream Animation" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/role-Game%20Dev%20%26%20Backend%20Learner-blueviolet?style=for-the-badge"/>
