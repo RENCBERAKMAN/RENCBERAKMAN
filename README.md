@@ -108,9 +108,9 @@ Software and games shouldn't just be about functionality or fun — they can als
 I want users to pause and ask:  
 **“Wait a second... what am I really serving here?”**
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" alt="Keep Coding">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Universe Simulation">
 </p>
 
 <p align="center">
-  <b><i>The journey continues... One line at a time.</i></b>
+  <i>We don't just write code. We write existence.</i>
 </p>
