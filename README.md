@@ -108,9 +108,17 @@ Software and games shouldn't just be about functionality or fun — they can als
 I want users to pause and ask:  
 **“Wait a second... what am I really serving here?”**
 <p align="center">
-  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="500" alt="Matrix Coding">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=See+you+in+the+next+commit...;The+keyboard+never+rests...;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>01010011 01100101 01100101 00100000 01111001 01101111 01110101 00100000 01101001 01101110 00100000 01110100 01101000 01100101 00100000 01100111 01110010 01101001 01100100</i>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Rocket Takeoff">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/9DavVitIZ26jC/giphy.gif" width="250" alt="Glitch Coder">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/cNf5uSHI75iHvvZxzG/giphy.gif" width="400" alt="Keep Coding"/>
 </p>
