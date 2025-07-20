@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer GIF"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400" alt="Glitch Animation" />
 </p>
 
 <p align="center">
@@ -58,9 +58,6 @@
   <a href="https://www.linkedin.com/in/rençber-akman-92b416333" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-    <a href="https://rencberakman.github.io/RENCBER-PORTFOLIO/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Projects-purple?style=for-the-badge&logo=visualstudiocode" alt="Portfolio Badge"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://rencberakman.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" title="Website"/>
@@ -68,6 +65,9 @@
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@OyunAtoölyesi7" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" title="YouTube"/>
+  </a>
+      <a href="https://rencberakman.github.io/RENCBER-PORTFOLIO/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-purple?style=for-the-badge&logo=visualstudiocode" alt="Portfolio Badge"/>
   </a>
 </p>
 
