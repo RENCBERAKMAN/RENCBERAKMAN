@@ -110,23 +110,8 @@ I want users to pause and ask:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&width=600&lines=███%20CLOSING%20TERMINAL...;█%20Goodbye%2C%20but%20never%20idle.;█%20Systems%20await%20next%20build...;█%20Commit%20the%20future." alt="Hacker Typing"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Matrix Rain Terminal Hacker"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Cyber Hacker Glitch" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/END%20OF%20LINE-010101-green?style=for-the-badge&logo=hackthebox" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOwGmFAs3tHd1o4qA/giphy.gif" width="400" alt="Digital Exit" />
-</p>
 
 
