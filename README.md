@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Glitch Neon Hacker Animation" />
 </p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3542/3542805.png" width="200" alt="Backend Icon" />
+  <img src="GIF_LINKİ" width="500" alt="Açıklama" />
 </p>
 
 
