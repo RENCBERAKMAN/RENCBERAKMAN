@@ -58,7 +58,19 @@
 **Backend Topics I’m Learning:**  
 REST APIs, Microservices, JWT Authentication, Docker, CI/CD, OAuth2, PostgreSQL optimization, Unit testing, GitHub Actions, container orchestration  
 
-📫 Reach me on: [LinkedIn](#) | [Website](#) | [YouTube](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rencberakman" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rencber.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30" title="Website"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@rencberakman" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30" title="YouTube"/>
+  </a>
+</p>
 
 ---
 
