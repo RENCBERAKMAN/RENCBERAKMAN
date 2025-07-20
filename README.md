@@ -107,18 +107,26 @@ I constantly ask:
 Software and games shouldn't just be about functionality or fun — they can also spark moments of awakening.  
 I want users to pause and ask:  
 **“Wait a second... what am I really serving here?”**
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=See+you+in+the+next+commit...;The+keyboard+never+rests...;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&width=600&lines=███%20CLOSING%20TERMINAL...;█%20Goodbye%2C%20but%20never%20idle.;█%20Systems%20await%20next%20build...;█%20Commit%20the%20future." alt="Hacker Typing"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Rocket Takeoff">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Matrix Rain Terminal Hacker"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9DavVitIZ26jC/giphy.gif" width="250" alt="Glitch Coder">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Cyber Hacker Glitch" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cNf5uSHI75iHvvZxzG/giphy.gif" width="400" alt="Keep Coding"/>
+  <img src="https://img.shields.io/badge/END%20OF%20LINE-010101-green?style=for-the-badge&logo=hackthebox" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOwGmFAs3tHd1o4qA/giphy.gif" width="400" alt="Digital Exit" />
+</p>
+
+
