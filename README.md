@@ -15,8 +15,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYG7xfXOcY9ZWd2/giphy.gif" width="500" alt="Code Stream Animation" />
+  <img src="https://media.giphy.com/media/DU6PF1U1TSLNe/giphy.gif" width="500" alt="Coding Hands Animation" />
 </p>
+
 
 
 <p align="center">
