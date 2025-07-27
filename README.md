@@ -67,11 +67,8 @@
   <a href="https://rencberakman.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" title="Website"/>
   </a>
-  &nbsp;&nbsp;
- 
-      <a href="https://rencberakman.github.io/RENCBER-PORTFOLIO/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Projects-purple?style=for-the-badge&logo=visualstudiocode" alt="Portfolio Badge"/>
-  </a>
+
+  
 </p>
 
 ---
