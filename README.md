@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 Technologies I Use & Explore
-🌟Java                      🌟Unreal Engine
+🌟Java                      
 🌟Spring Boot
 🌟PstgreSQL
 🌟Docker
