@@ -24,7 +24,11 @@
 ---
 
 ## 🚀 Technologies I Use & Explore
-
+🌟Java                      🌟Unreal Engine
+🌟Spring Boot
+🌟PstgreSQL
+🌟Docker
+🌟Microservice
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
@@ -34,11 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
-<img src="https://www.svgrepo.com/show/353655/unreal-engine.svg" width="45" title="Unreal Engine"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" title="Jenkins"/>
- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/api.svg" width="45" title="REST API"/>
+
 
 
 </p>
