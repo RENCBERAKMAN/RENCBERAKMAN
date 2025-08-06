@@ -24,11 +24,7 @@
 ---
 
 ## 🚀 Technologies I Use & Explore
-🌟Java                      
-🌟Spring Boot
-🌟PstgreSQL
-🌟Docker
-🌟Microservice
+🌟Java🌟Spring Boot🌟PstgreSQL🌟Docker🌟Microservice
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
