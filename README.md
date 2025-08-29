@@ -80,6 +80,7 @@ I dream of launching my own projects, forming a small but unique team, and maybe
 My goal isn't to build games that just "kill time" — I want to create experiences that make people reflect, question, and rediscover themselves.  
 Sometimes I design nature scenes in Unreal Engine, sometimes I challenge myself with core algorithms in C++.
 
+
 ---
 
 🛠 I may not be highly advanced technically — but I take responsibility and I'm never afraid to learn.  
