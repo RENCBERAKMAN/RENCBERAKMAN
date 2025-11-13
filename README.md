@@ -34,9 +34,6 @@ I constantly ask:
 • How do I fix this bug?
 • How do I transform someone's idea into something even better?
 
-🧠 I deeply believe in mental awareness.
-Software and games shouldn't just be about functionality or fun — they can also spark moments of awakening.
-I want users to pause and ask:
-“Wait a second... what am I really serving here?”
+🧠 I deeply believe in mental awareness. Software and games shouldn't just be about functionality or fun — they can also encourage users to reflect on what they are learning and experiencing. I want users to pause and ask: “Wait a second... what knowledge or value am I gaining here?”
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff" /> </p>
