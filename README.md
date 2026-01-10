@@ -15,7 +15,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻About Me
 
 I am a **Computer Programming student** dedicated to understanding the logic behind secure and scalable systems. My focus has shifted from general coding to **Backend Architecture** and **Cyber Security**. I don't just write code; I strive to understand how data flows, how systems break, and how to build them resiliently.
 
@@ -23,7 +23,7 @@ Currently, I am deep-diving into the **.NET Ecosystem**, adopting **Clean Archit
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️Technical Arsenal
 
 | **Backend & Core** | **Database & Tools** | **Security & OS** |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Currently, I am deep-diving into the **.NET Ecosystem**, adopting **Clean Archit
 
 ---
 
-### 🎯 Current Focus & Roadmap
+### 🎯Current Focus & Roadmap
 
 * **Mastering:** Advanced C# concepts, LINQ, and Entity Framework Core.
 * **Learning:** The OWASP Top 10 and secure coding practices to prevent vulnerabilities before they happen.
